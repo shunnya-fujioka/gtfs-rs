@@ -1,0 +1,13 @@
+pub mod agency;
+pub mod calendar;
+pub mod fare;
+pub mod feed_info;
+pub mod frequencies;
+pub mod office;
+pub mod routes;
+pub mod shapes;
+pub mod stop_times;
+pub mod stops;
+pub mod transfers;
+pub mod translations;
+pub mod trips;
